@@ -19,3 +19,8 @@
 /Makefile
 /Makefile.in
 /README
+*.o
+*.gcov
+*.gcno
+*.gcda
+
